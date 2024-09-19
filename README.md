@@ -1,0 +1,3 @@
+- http://localhost:8081/calculadora
+- http://localhost:8081/computar?comando=min(7.5,3.0)
+- http://localhost:8082/compreflex=bbl(8.3,2.5,5.7)
